@@ -1,97 +1,98 @@
-bairro,valor
-ipanema,20907
-copacabana,12170
-leme,12210
-catete,10487
-lapa,3276
-barra da tijuca,9335
-inhaúma,1483
-leblon,23626
-vila kosmos,1540
-botafogo,11379
-recreio dos bandeirantes,6119
-tijuca,6194
-glória,9263
-laranjeiras,9688
-santa teresa,7868
-engenho de dentro,2050
-centro,7659
-jardim botânico,14270
-joá,7972
-vidigal,1750
-flamengo,11098
-gávea,13813
-rio comprido,1669
-engenho novo,3554
-humaitá,11683
-são cristóvão,1813
-cosme velho,8459
-vila isabel,5086
-maracanã,2296
-andaraí,4962
-saúde,1812
-benfica,1273
-lagoa,15615
-méier,2728
-marechal hermes,1212
-penha,1735
-são conrado,12210
-urca,11662
-todos os santos,2280
-grajaú,4996
-lins de vasconcelos,862
-parque anchieta,856
-del castilho,1620
-estacio,1689
-cachambi,1474
-praça da bandeira,2286
-gamboa,1665
-irajá,1203
-olaria,1814
-madureira,1572
-bonsucesso,1816
-rocha,1739
-quintino bocaiúva,1373
-vila da penha,1986
-tomás coelho,1200
-bento ribeiro,1498
-abolição,1636
-brás de pina,1340
-riachuelo,1798
-guadalupe,1170
-parada de lucas,1063
-grumari,2600
-rocinha,1532
-encantado,1640
-cordovil,1250
-barra de guaratiba,1400
-cidade nova,2423
-maria da graça,1737
-piedade,1548
-oswaldo cruz,1304
-santo cristo,1527
-penha circular,1565
-higienópolis,1832
-catumbi,1157
-engenho da rainha,1170
-pilares,1576
-ramos,1513
-cascadura,1500
-sampaio,1699
-barros filho,743
-jacaré,1230
-rocha miranda,1330
-caju,867
-colégio,1069
-coelho neto,1085
-mangueira,489
-ricardo de albuquerque,1011
-anchieta,964
-manguinhos,440
-pavuna,2192
-vigário geral,1026
-vincente de carvalho,1271
-honório gurgel,3064
-cavalcante,980
-deodoro,1000
-complexo de alemão,543
+neighbourhood,m2
+Ipanema,20907
+Copacabana,12170
+Leme,12210
+Catete,10487
+Lapa,3276
+Barra da Tijuca,9335
+Inhaúma,1483
+Leblon,23626
+Vila Kosmos,1540
+Botafogo,11379
+Recreio dos Bandeirantes,6119
+Tijuca,6194
+Glória,9263
+Laranjeiras,9688
+Santa Teresa,7868
+Engenho de Dentro,2050
+Centro,7659
+Jardim Botânico,14270
+Joá,7972
+Vidigal,1750
+Flamengo,11098
+Gávea,13813
+Rio Comprido,1669
+Engenho Novo,3554
+Humaitá,11683
+São Cristóvão,1813
+Cosme Velho,8459
+Vila Isabel,5086
+Maracanã,2296
+Andaraí,4962
+Saúde,1812
+Benfica,1273
+Lagoa,15615
+Méier,2728
+Marechal Hermes,1212
+Penha,1735
+São Conrado,12210
+Urca,11662
+Todos os Santos,2280
+Grajaú,4996
+Lins de Vasconcelos,862
+Parque Anchieta,856
+Del Castilho,1620
+Estacio,1689
+Cachambi,1474
+Praça da Bandeira,2286
+Gamboa,1665
+Vaz Lobo,1185
+Irajá,1203
+Olaria,1814
+Madureira,1572
+Bonsucesso,1816
+Rocha,1739
+Quintino Bocaiúva,1373
+Vila da Penha,1986
+Tomás Coelho,1200
+Bento Ribeiro,1498
+Abolição,1636
+Brás de Pina,1340
+Riachuelo,1798
+Guadalupe,1170
+Parada de Lucas,1063
+Grumari,2600
+Rocinha,1532
+Encantado,1640
+Cordovil,1250
+Barra de Guaratiba,1400
+Cidade Nova,2423
+Maria da Graça,1737
+Piedade,1548
+Oswaldo Cruz,1304
+Santo Cristo,1527
+Penha Circular,1565
+Higienópolis,1832
+Catumbi,1157
+Engenho da Rainha,1170
+Pilares,1576
+Ramos,1513
+Cascadura,1500
+Sampaio,1699
+Barros filho,743
+Jacaré,1230
+Rocha Miranda,1330
+Caju,867
+Colégio,1069
+Coelho Neto,1085
+Mangueira,489
+Ricardo de Albuquerque,1011
+Anchieta,964
+Manguinhos,440
+Pavuna,2192
+Vigário Geral,1026
+Vincente de Carvalho,1271
+Honório Gurgel,3064
+Cavalcante,980
+Deodoro,1000
+Complexo do Alemão,543
